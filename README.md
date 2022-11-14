@@ -14,6 +14,7 @@
 ![Kafka](https://img.shields.io/badge/kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![R](<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>)
 
 ### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=ybezginova2016&hide=stars,contribs&theme=gotham&show_icons=true&count_private=true)](https://github.com/ybezginova2016/github-readme-stats)
