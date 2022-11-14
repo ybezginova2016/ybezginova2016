@@ -1,5 +1,18 @@
 ### Welcome!
-## I'm Yulia Bezginova, I'm a data scientist. 
+## I'm Yulia Bezginova.
+
+Having an engineering background in addition to Master Degree in Information Technologies, received both in Russia and Norway, I have worked for international businesses in different functions - digital marketing, software quality assurance, financial services. As a result, I have learnt how international small, medium and large enterprises (headquartered in Munich, San Francisco, Melbourne, London) work and run their businesses around the world. 
+
+This background helps me now to advise companies how to transform digitally and deliver on the promises of a technology-enabled business.
+
+At the moment, I do Data Science projects and develop in Data Engineering, using Python & Machine learning algorithms (Python, SQL).
+
+How can I help?
+
+- predictive analytics via machine learning algorithms (supervised learning, unsupervised learning, OCR, NLP, computer vision )
+- creating, maintaining, and producing reporting and analytics on an ongoing and ad hoc basis
+- transforming or creating from scratch enterprise data warehouses
+- creating a full-cycle ETL pipeline for the business or business process
 
 ### Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
