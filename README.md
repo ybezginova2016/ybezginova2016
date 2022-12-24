@@ -7,12 +7,22 @@ This background helps me now to advise companies how to transform digitally and 
 
 At the moment, I do Data Science projects and develop in Data Engineering, using Python & Machine learning algorithms (Python, SQL).
 
-How can I help?
+### How can I help?
 
-- predictive analytics via machine learning algorithms (supervised learning, unsupervised learning, OCR, NLP, computer vision )
-- creating, maintaining, and producing reporting and analytics on an ongoing and ad hoc basis
-- transforming or creating from scratch enterprise data warehouses
-- creating a full-cycle ETL pipeline for the business or business process
+- Predictive models using machine learning algorithms (supervised learning, unsupervised learning, reinforcement learning, OCR, NLP, computer vision) for structured data
+- Neural networks training and testing (image and voice recognition)
+- Transforming or creating from scratch enterprise data warehouses
+- Creating a full-cycle ETL pipeline for the business or business process
+- Create, maintain, and conduct reports and analytics on an ongoing and ad hoc basis via EDA
+
+### Tools I mainly use:
+- Python libraries: pandas, numpy, seaborn, matplotlib, TensorFlow, Keras, requests, sklearn, os, cv2
+- Github VCS
+- SQL
+- PostgreSQL, Docker
+- PySpark/RDD, Spark SQL, DataFrame API
+
+My Github Portfolio: https://github.com/ybezginova2016
 
 ### Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
