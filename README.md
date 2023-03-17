@@ -13,7 +13,6 @@ At the moment, I do Data Science projects and develop in Data Engineering, using
 - Neural networks training and testing (image and voice recognition)
 - Transforming or creating from scratch enterprise data warehouses
 - Creating a full-cycle ETL pipeline for the business or business process
-- Create, maintain, and conduct reports and analytics on an ongoing and ad hoc basis via EDA
 
 ### Tools I mainly use:
 - Python libraries: pandas, numpy, seaborn, matplotlib, TensorFlow, Keras, requests, sklearn, os, cv2
