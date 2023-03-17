@@ -1,20 +1,9 @@
 # Data Science | Machine Learning | Deep Learning
 ### Hello everyone! I'm Yulia Bezginova. Welcome to my Git :)
 
-```
-1. First, we have a person with an idea. 
-2. Money beats the idea. 
-3. Politics beats money. 
-4. But – surprise! Technology beats politics. 
-
-(Jan Stenbeck)
-```
-
 Having an engineering background in addition to Master Degree in Information Technologies, received both in Russia and Norway, I have worked for international businesses in different functions - digital marketing, software quality assurance, financial services. As a result, I have learnt how international small, medium and large enterprises (headquartered in Munich, San Francisco, Melbourne, London) work and run their businesses around the world. 
 
 This background helps me now to advise companies how to transform digitally and deliver on the promises of a technology-enabled business.
-
-At the moment, I do Data Science projects and develop in Data Engineering, using Python & Machine learning algorithms (Python, SQL).
 
 ### How can I help?
 
@@ -31,6 +20,15 @@ At the moment, I do Data Science projects and develop in Data Engineering, using
 - PySpark/RDD, Spark SQL, DataFrame API
 
 My Github Portfolio: https://github.com/ybezginova2016
+
+```
+1. First, we have a person with an idea. 
+2. Money beats the idea. 
+3. Politics beats money. 
+4. But – surprise! Technology beats politics. 
+
+(Jan Stenbeck)
+```
 
 ### Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
