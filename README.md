@@ -5,6 +5,15 @@ Having an engineering background in addition to Master Degree in Information Tec
 
 This background helps me now to advise companies how to transform digitally and deliver on the promises of a technology-enabled business.
 
+```
+1. First, we have a person with an idea. 
+2. Money beats the idea. 
+3. Politics beats money. 
+4. But – surprise! Technology beats politics. 
+
+(Jan Stenbeck)
+```
+
 ### How can I help?
 
 - Predictive models using machine learning algorithms (supervised learning, unsupervised learning, reinforcement learning, OCR, NLP, computer vision) for structured data
@@ -20,15 +29,6 @@ This background helps me now to advise companies how to transform digitally and 
 - PySpark/RDD, Spark SQL, DataFrame API
 
 My Github Portfolio: https://github.com/ybezginova2016
-
-```
-1. First, we have a person with an idea. 
-2. Money beats the idea. 
-3. Politics beats money. 
-4. But – surprise! Technology beats politics. 
-
-(Jan Stenbeck)
-```
 
 ### Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
