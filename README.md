@@ -1,7 +1,5 @@
 # Data Science | Machine Learning | Deep Learning
 
-### *Django: “The web framework for perfectionists with deadlines”*
-
 ### Hello everyone! I'm Yulia Bezginova. Welcome to my Git :)
 
 Having an engineering background in addition to Master Degree in Information Technologies, received both in Russia and Norway, I have worked for international businesses in different functions - digital marketing, software quality assurance, financial services. As a result, I have learnt how international small, medium and large enterprises (headquartered in Munich, San Francisco, Melbourne, London) work and run their businesses around the world. 
