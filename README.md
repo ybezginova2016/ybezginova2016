@@ -8,8 +8,6 @@ Based in Belgrade but available worldwide, I lead a small studio specializing in
 
 Ready to boost your sales now? 
 
-Our services include:
-
 ### Web Scraping and Lead Generation:
 - Extracting leads from LinkedIn and other web sources using Python, HTML Requests, BeautifulSoup, AJAX Parsing, Selenium, Asynchronous Parsing, Pyrogram, and Telegram Messenger data parsing.
 - Testing lead quality and delivering qualified leads in JSON, Excel, CSV, and PDF formats.
