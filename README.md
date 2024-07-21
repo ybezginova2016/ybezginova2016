@@ -2,9 +2,31 @@
 
 ### Hello everyone! I'm Yulia Bezginova. Welcome to my Git :)
 
-Having an engineering background in addition to Master Degree in Information Technologies, received both in Russia and Norway, I have worked for international businesses in different functions - digital marketing, software quality assurance, financial services. As a result, I have learnt how international small, medium and large enterprises (headquartered in Munich, San Francisco, Melbourne, London) work and run their businesses around the world. 
+With a background in engineering and business education from Russia and Norway, I have spent the past decade working in various roles within international businesses across Germany, the US, Australia, Great Britain, Russia, and Serbia.
 
-This background helps me now to advise companies how to transform digitally and deliver on the promises of a technology-enabled business.
+Currently, I lead a small studio specializing in building ML models (NLP, CV, Text Mining), comprehensive sales strategy development for IT start-ups, sales & business development and lead generation using web scraping tools. Our services include:
+
+### Data Science & Machine Learning projects
+
+- Predictive models using machine learning algorithms (supervised learning, unsupervised learning, reinforcement learning, OCR, NLP, computer vision) for structured data.
+- Neural networks training and testing (image and voice recognition).
+- Transforming or creating from scratch enterprise data warehouses.
+- Creating a full-cycle ETL pipeline for the business or business process.
+
+### Web Scraping and Lead Generation:
+- Extracting leads from LinkedIn and other web sources using Python, HTML Requests, BeautifulSoup, AJAX Parsing, Selenium, Asynchronous Parsing, Pyrogram, and Telegram Messenger data parsing.
+- Testing lead quality and delivering qualified leads in JSON, Excel, CSV, and PDF formats.
+- Ensuring high conversion potential of leads.
+
+### Sales & Business Development:
+- Generating leads through cold calls, follow-ups, and networking.
+- Nurturing leads through the entire sales cycle until they buy.
+- Negotiating terms and participating in tenders.
+- Developing strong customer relationships to maximize opportunities.
+
+### Data Analysis and Problem-Solving:
+- Analyzing data to identify opportunities for sustainable improvements.
+- Proactively seeking ways to enhance customer experiences.
 
 ```
 1. First, we have a person with an idea. 
@@ -14,20 +36,10 @@ This background helps me now to advise companies how to transform digitally and 
 
 (Jan Stenbeck)
 ```
-
-### How can I help?
-
-- Predictive models using machine learning algorithms (supervised learning, unsupervised learning, reinforcement learning, OCR, NLP, computer vision) for structured data
-- Neural networks training and testing (image and voice recognition)
-- Transforming or creating from scratch enterprise data warehouses
-- Creating a full-cycle ETL pipeline for the business or business process
-
-### Tools I mainly use:
-- Python libraries: pandas, numpy, seaborn, matplotlib, TensorFlow, Keras, requests, sklearn, os, cv2
-- Github VCS
-- SQL
-- PostgreSQL, Docker
-- PySpark/RDD, Spark SQL, DataFrame API
+### Tools we use:
+- ML: pandas, numpy, seaborn, matplotlib, TensorFlow, Keras, requests, sklearn, os, cv2
+- DB: SQL, PostgreSQL, Docker
+- Web parsing: Python, HTML Requests, BeautifulSoup, AJAX Parsing, Selenium, Asynchronous Parsing, Pyrogram
 
 My Github Portfolio: https://github.com/ybezginova2016
 
