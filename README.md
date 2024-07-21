@@ -2,16 +2,13 @@
 
 ### Hello everyone! I'm Yulia Bezginova. Welcome to my Git :)
 
-With a background in engineering and business education from Russia and Norway, I have spent the past decade working in various roles within international businesses across Germany, the US, Australia, Great Britain, Russia, and Serbia.
+With engineering and business education from Russia and Norway, I have over a decade of international business experience across Germany, the US, Australia, Great Britain, Russia, and Serbia.
 
-Currently, I lead a small studio specializing in building ML models (NLP, CV, Text Mining), comprehensive sales strategy development for IT start-ups, sales & business development and lead generation using web scraping tools. Our services include:
+Based in Belgrade but available worldwide, I lead a small studio specializing in ML model development (NLP, CV, Text Mining), sales, business development, and lead generation for small and medium enterprises. We use both traditional and modern tools, including AI, web scraping, voice assistants, and hands-on bots.
 
-### Data Science & Machine Learning projects
+Ready to boost your sales now? 
 
-- Predictive models using machine learning algorithms (supervised learning, unsupervised learning, reinforcement learning, OCR, NLP, computer vision) for structured data.
-- Neural networks training and testing (image and voice recognition).
-- Transforming or creating from scratch enterprise data warehouses.
-- Creating a full-cycle ETL pipeline for the business or business process.
+Our services include:
 
 ### Web Scraping and Lead Generation:
 - Extracting leads from LinkedIn and other web sources using Python, HTML Requests, BeautifulSoup, AJAX Parsing, Selenium, Asynchronous Parsing, Pyrogram, and Telegram Messenger data parsing.
@@ -23,6 +20,12 @@ Currently, I lead a small studio specializing in building ML models (NLP, CV, Te
 - Nurturing leads through the entire sales cycle until they buy.
 - Negotiating terms and participating in tenders.
 - Developing strong customer relationships to maximize opportunities.
+
+### Data Science & Machine Learning projects:
+- Predictive models using machine learning algorithms (supervised learning, unsupervised learning, reinforcement learning, OCR, NLP, computer vision) for structured data.
+- Neural networks training and testing (image and voice recognition).
+- Transforming or creating from scratch enterprise data warehouses.
+- Creating a full-cycle ETL pipeline for the business or business process.
 
 ### Data Analysis and Problem-Solving:
 - Analyzing data to identify opportunities for sustainable improvements.
