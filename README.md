@@ -1,4 +1,4 @@
-# Data Science | Machine Learning | Deep Learning
+# Data Science | Machine Learning | Web Scraping
 
 ### Hello everyone! I'm Yulia Bezginova. Welcome to my Git :)
 
