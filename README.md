@@ -1,4 +1,4 @@
-# Sales & Lead Generation | Machine Learning | Web Scraping
+# Data Analytics | Data Science | Web Scraping
 
 ### Hello everyone! I'm Yulia Bezginova. Welcome to my Git :)
 
