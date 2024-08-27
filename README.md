@@ -4,13 +4,9 @@
 
 With engineering and business education from Russia and Norway, I have over a decade of international business experience across Germany, the US, Australia, Great Britain, Russia, and Serbia. I now concentrate on data science, data analytics, and data management tasks, continuously upgrading my skills, including upskilling in statistics, math, Python, SQL, HDF5, Apache Parquet, Apache Arrow, Hadoop, and Spark. I am constantly learning and have completed over 50 courses on Coursera from world-renowned universities.
 
-Based in Belgrade but available worldwide, I am here for you to support with Data Science and Machine Learning model development (data analytics, statistical modelling, NLP, Text Mining), sales, business development, and sales automation for small and medium enterprises. We use both traditional and modern tools, including AI, web scraping, voice assistants, and hands-on bots.
+I am here for you to support with Data Science and Machine Learning model development (data analytics, statistical modelling, NLP, Text Mining), sales automation for small and medium enterprises, including AI, web scraping, voice assistants, and hands-on bots.
 
-Languages:
-
-🇬🇧 English | 🇷🇺 Russian | 🇩🇪 German | 🇷🇸 Serbian (basic)
-
-Feel free to approach me in any of these languages!
+Languages: 🇬🇧 English | 🇷🇺 Russian | 🇩🇪 German | 🇷🇸 Serbian (basic). Feel free to approach me in any language. 
 
 My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and questions are welcome at `ybezginova2021@gmail.com` and Telegram [@yu_bezginova](https://t.me/ybezginova).
 
