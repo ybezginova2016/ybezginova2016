@@ -72,8 +72,7 @@ My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and qu
 
 ### 📡 [Telecommunication Tariffs: Predicting the Best Tariff Plan](https://github.com/ybezginova2016/ML_1_telecommunications_tariffs/blob/main/README.md)
 **Objective**: Build a model with the highest possible accuracy. The goal is to achieve at least a 0.75 accuracy score. Test the accuracy on the test dataset.
-**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/ML_1_telecommunications_tariffs/blob/main/ML_telecommunications.ipynb)  
-*Sorry, I cannot find the initial dataset for this.*
+**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/ML_1_telecommunications_tariffs/blob/main/ML_telecommunications.ipynb). *Sorry, I cannot find the initial dataset for this.*
 
 
 ### 🎮 [Computer Games Sales Analysis Project](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/README.md)
