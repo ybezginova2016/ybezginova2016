@@ -13,15 +13,11 @@ Your comments and questions are welcome at `ybezginova2021@gmail.com` and Telegr
 # DS & ML Projects _(I am still on my way)_
 
 ### 📝 [NLP State Gov Complaint / Question Classification Project](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/README.md)
-
 **Objective**: To train a model that classifies user messages as either complaints or questions.
-
 **Data**: [Complaints](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/questions_test.csv) and [Questions](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/questions_test.csv).
-
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/main.ipynb)
 
 ### 🚖 [Taxi Orders Forecasting Project](https://github.com/ybezginova2016/03_LA_TaxiOrders/blob/main/README.md)
-
 **Objective**: To build and train a machine learning model for forecasting the number of taxi orders in the next hour.
 **Data** is [here](https://github.com/ybezginova2016/03_LA_TaxiOrders/blob/main/taxi.csv).
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/03_LA_TaxiOrders/blob/main/03_LA_taxi_orders_main.ipynb)
@@ -63,32 +59,23 @@ Your comments and questions are welcome at `ybezginova2021@gmail.com` and Telegr
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/DA_5_US_income_tax/blob/main/income_tax_main_YBezginova.ipynb)
 
 ### 🎧 [Moscow and St. Petersburg Music Preferences Project](https://github.com/ybezginova2016/DA_1_MSK_SPb_music_project/blob/main/README.md)
-
 **Objective**: To analyze and compare the music preferences of users in Moscow and St. Petersburg, aiming to debunk myths and provide insights for businesses.
 **Data** is [here](https://github.com/ybezginova2016/DA_1_MSK_SPb_music_project/blob/main/yandex_music_project.csv).
 **Results**: [Jupyter Notebook](https://github.com/ybezginova2016/DA_1_MSK_SPb_music_project/blob/main/msk_spb_music_project.ipynb)
 
 ### 📊 [Telecommunication Tariffs: Revenue Analysis Project](https://github.com/ybezginova2016/03_DA_Telecommunication_SmartUltra/blob/main/README.md)
-
 **Objective**: To identify which tariff brings more revenue.
-
 **Data** is [here](https://drive.google.com/drive/folders/1KG84Fb9jK1GOjNAKyCvh8tKarVDr2qwR?usp=sharing) (please do not delete from the disk).
-
 Code: [Jupyter Notebook](https://github.com/ybezginova2016/03_DA_Telecommunication_SmartUltra/blob/main/main_Telecom_SmartUltra.ipynb)
 
 ### 📡 [Telecommunication Tariffs: Predicting the Best Tariff Plan](https://github.com/ybezginova2016/ML_1_telecommunications_tariffs/blob/main/README.md)
-
 **Objective**: Build a model with the highest possible accuracy. The goal is to achieve at least a 0.75 accuracy score. Test the accuracy on the test dataset.
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/ML_1_telecommunications_tariffs/blob/main/ML_telecommunications.ipynb)
-
 *Sorry, I cannot find the initial dataset for this.*
 
 ### 🎮 [Computer Games Sales Analysis Project](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/README.md)
-
 **Objective**: To analyze historical data on game sales, user and expert ratings, genres, and platforms to identify key patterns that contribute to the success of video games.
-
 **Data** is [here](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/games.csv).
-
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/games_main.ipynb)
 
 # I can hepl:
