@@ -11,70 +11,115 @@ My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and qu
 # DS & ML Projects _(I am still on my way)_
 
 ### 📝 [NLP State Gov Complaint / Question Classification Project](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/README.md)
+
 **Objective**: To train a model that classifies user messages as either complaints or questions.
+
 **Data**: [Complaints](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/questions_test.csv) and [Questions](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/questions_test.csv).
+
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/main.ipynb)
 
+
 ### 🚖 [Taxi Orders Forecasting Project](https://github.com/ybezginova2016/03_LA_TaxiOrders/blob/main/README.md)
+
 **Objective**: To build and train a machine learning model for forecasting the number of taxi orders in the next hour.
+
 **Data** is [here](https://github.com/ybezginova2016/03_LA_TaxiOrders/blob/main/taxi.csv).
+
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/03_LA_TaxiOrders/blob/main/03_LA_taxi_orders_main.ipynb)
 
+
 ### 🔐 [Clients' Personal Data Protection Project](https://github.com/ybezginova2016/01_LA_CustomerDataProtection/blob/main/README.md)
+
 **Objective**: Develop a method for encoding client data to make it difficult to restore private information.
-**Data**: [Here](https://github.com/ybezginova2016/01_LA_CustomerDataProtection/blob/main/insurance.csv)
+
+**Data** is [here](https://github.com/ybezginova2016/01_LA_CustomerDataProtection/blob/main/insurance.csv).
+
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/01_LA_CustomerDataProtection/blob/main/01_LA_main_CustomerDataProtection.ipynb)
 
+
 ### 🏦 [Bank Credit Scoring Project](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/README.md)
+
 **Objective**: To analyze whether a client's marital status and the number of children they have impact their ability to repay a loan on time.
-**Data**: [Here](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data_bank_scoring_project.csv)
+
+**Data** is [here](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data_bank_scoring_project.csv).
+
 **Code**: [Part 1](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data%20cleaning%20(part%201).ipynb) and [Part 2](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data%20analysis%20(part%202).ipynb)
 
+
 ### 🏠 [Real Estate Profit Calculation Project](https://github.com/ybezginova2016/06_DA_RealEstateProfitCalculation/blob/main/README.md)
+
 **Objective**: Conduct an Exploratory Data Analysis and calculate the profit.
+
 **Data** is [here](https://github.com/ybezginova2016/06_DA_RealEstateProfitCalculation/blob/main/yandex_realty_data.csv).
+
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/06_DA_RealEstateProfitCalculation/blob/main/preprocessing_eda.ipynb)
 
+
 ### 🚗 [Car Price Prediction Project](https://github.com/ybezginova2016/02_LA_CarPricePrediction/blob/main/README.md)
+
 **Objective**: To build a machine learning model for predicting car prices to aid in setting accurate prices within a lead generation application.
+
 **Data** is [here](https://github.com/ybezginova2016/02_LA_CarPricePrediction/blob/main/autos.csv).
+
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/02_LA_CarPricePrediction/blob/main/car_price_main.ipynb)
 
+
 ### 🏆 [Gold Mining: Maximizing Gold Recovery from Ore](https://github.com/ybezginova2016/04_ML_GoldMining_ToMaximizeAGoldRecoveryFromOre/blob/main/README.md)
+
 **Objective**: To develop a machine learning model to predict the coefficient of gold recovery from ore, addressing challenges from declining ore grades and ensuring economically viable gold mining.
+
 **Data**: Full data is [here](https://github.com/ybezginova2016/04_ML_GoldMining_ToMaximizeAGoldRecoveryFromOre/blob/main/gold_recovery_full_new.csv), and test data is [here](https://github.com/ybezginova2016/04_ML_GoldMining_ToMaximizeAGoldRecoveryFromOre/blob/main/gold_recovery_test_new.csv).
 
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/04_ML_GoldMining_ToMaximizeAGoldRecoveryFromOre/blob/main/04_ML_GoldMining_main.ipynb)
 
-### 🏦[Bank Credit Scoring Project](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/README.md)
-**Objective**: To analyze whether a client's marital status and the number of children they have impact their ability to repay a loan on time.
-**Data** is [here](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data_bank_scoring_project.csv).
-**Code**: [part 1](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data%20cleaning%20(part%201).ipynb) and [part 2](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data%20analysis%20(part%202).ipynb)
 
 ### 💼 [Income Tax Analysis Project](https://github.com/ybezginova2016/DA_5_US_income_tax/blob/main/README.md)
+
 **Objective**: To analyze income tax data from different states in the US to uncover trends and insights related to tax collection and personal consumption expenditures.
-**Data**: [Here](https://github.com/ybezginova2016/DA_5_US_income_tax/blob/main/income_tax_US_082022.xlsx)
+
+**Data** is [here](https://github.com/ybezginova2016/DA_5_US_income_tax/blob/main/income_tax_US_082022.xlsx).
+
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/DA_5_US_income_tax/blob/main/income_tax_main_YBezginova.ipynb)
 
+
 ### 🎧 [Moscow and St. Petersburg Music Preferences Project](https://github.com/ybezginova2016/DA_1_MSK_SPb_music_project/blob/main/README.md)
+
 **Objective**: To analyze and compare the music preferences of users in Moscow and St. Petersburg, aiming to debunk myths and provide insights for businesses.
+
 **Data** is [here](https://github.com/ybezginova2016/DA_1_MSK_SPb_music_project/blob/main/yandex_music_project.csv).
-**Results**: [Jupyter Notebook](https://github.com/ybezginova2016/DA_1_MSK_SPb_music_project/blob/main/msk_spb_music_project.ipynb)
+
+**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/DA_1_MSK_SPb_music_project/blob/main/msk_spb_music_project.ipynb)
+
 
 ### 📊 [Telecommunication Tariffs: Revenue Analysis Project](https://github.com/ybezginova2016/03_DA_Telecommunication_SmartUltra/blob/main/README.md)
+
 **Objective**: To identify which tariff brings more revenue.
+
 **Data** is [here](https://drive.google.com/drive/folders/1KG84Fb9jK1GOjNAKyCvh8tKarVDr2qwR?usp=sharing) (please do not delete from the disk).
-Code: [Jupyter Notebook](https://github.com/ybezginova2016/03_DA_Telecommunication_SmartUltra/blob/main/main_Telecom_SmartUltra.ipynb)
+
+**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/03_DA_Telecommunication_SmartUltra/blob/main/main_Telecom_SmartUltra.ipynb)
+
 
 ### 📡 [Telecommunication Tariffs: Predicting the Best Tariff Plan](https://github.com/ybezginova2016/ML_1_telecommunications_tariffs/blob/main/README.md)
+
 **Objective**: Build a model with the highest possible accuracy. The goal is to achieve at least a 0.75 accuracy score. Test the accuracy on the test dataset.
-**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/ML_1_telecommunications_tariffs/blob/main/ML_telecommunications.ipynb)
+
+**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/ML_1_telecommunications_tariffs/blob/main/ML_telecommunications.ipynb)  
 *Sorry, I cannot find the initial dataset for this.*
 
+
 ### 🎮 [Computer Games Sales Analysis Project](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/README.md)
+
 **Objective**: To analyze historical data on game sales, user and expert ratings, genres, and platforms to identify key patterns that contribute to the success of video games.
+
 **Data** is [here](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/games.csv).
+
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/games_main.ipynb)
+
+
+### **Feedback**
+
+Your comments and questions are welcome at `ybezginova2021@gmail.com` and Telegram [@yu_bezginova](https://t.me/ybezginova).
 
 # I can hepl:
 
