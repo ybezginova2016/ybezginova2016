@@ -4,7 +4,7 @@
 
 With engineering and business education from Russia and Norway, I have over a decade of international business experience across Germany, the US, Australia, Great Britain, Russia, and Serbia.
 
-Based in Belgrade but available worldwide, I lead a small studio specializing in ML model development (NLP, CV, Text Mining), sales, business development, and lead generation for small and medium enterprises. We use both traditional and modern tools, including AI, web scraping, voice assistants, and hands-on bots.
+Based in Belgrade but available worldwide, I lead a small studio specializing in Data Science and Machine Learning model development (data analytics, statistical modelling, NLP, Text Mining), sales, business development, and sales automation for small and medium enterprises. We use both traditional and modern tools, including AI, web scraping, voice assistants, and hands-on bots.
 
 My LinkedIn: [https://github.com/ybezginova2016](https://www.linkedin.com/in/yuliabezginova/)
 
