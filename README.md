@@ -6,8 +6,6 @@ With engineering and business education from Russia and Norway, I have over a de
 
 I am here for you to support with Data Science and Machine Learning model development (data analytics, statistical modelling, NLP, Text Mining), sales automation for small and medium enterprises, including AI, web scraping, voice assistants, and hands-on bots.
 
-Languages: 🇬🇧 English | 🇷🇺 Russian | 🇩🇪 German | 🇷🇸 Serbian (basic). Feel free to approach me in any language. 
-
 My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and questions are welcome at `ybezginova2021@gmail.com` and Telegram [@yu_bezginova](https://t.me/ybezginova).
 
 # DS & ML Projects _(I am still on my way)_
