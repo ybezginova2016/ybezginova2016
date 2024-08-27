@@ -82,7 +82,7 @@ My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and qu
 **Data** is [here](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/games.csv).
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/games_main.ipynb)
 
-# I can help:
+# I can help with:
 
 ### Web Scraping & Lead Generation:
 - Extracting leads from LinkedIn and other web sources using Python, HTML Requests, BeautifulSoup, AJAX Parsing, Selenium, Asynchronous Parsing, Pyrogram, and Telegram Messenger data parsing.
