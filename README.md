@@ -10,7 +10,7 @@ My LinkedIn: [https://github.com/ybezginova2016](https://www.linkedin.com/in/yul
 
 Your comments and questions are welcome at `ybezginova2021@gmail.com` and Telegram [@yu_bezginova](https://t.me/ybezginova).
 
-# Data Science & Machine Learning Projects (I am still on my way)
+# Data Science & Machine Learning Projects _(I am still on my way)_
 
 ### 📝 [NLP State Gov Complaint / Question Classification Project](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/README.md)
 Objective: To train a model that classifies user messages as either complaints or questions.
@@ -31,7 +31,6 @@ Code: [Jupyter Notebook](https://github.com/ybezginova2016/01_LA_CustomerDataPro
 Objective: To analyze whether a client's marital status and the number of children they have impact their ability to repay a loan on time.
 Data: [Here](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data_bank_scoring_project.csv)
 Code: [Part 1](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data%20cleaning%20(part%201).ipynb) and [Part 2](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data%20analysis%20(part%202).ipynb)
-
 
 ### 🏠 [Real Estate Profit Calculation Project](https://github.com/ybezginova2016/06_DA_RealEstateProfitCalculation/blob/main/README.md)
 Objective: Conduct an Exploratory Data Analysis and calculate the profit.
@@ -74,7 +73,6 @@ Data is [here](https://drive.google.com/drive/folders/1KG84Fb9jK1GOjNAKyCvh8tKar
 
 Code: [Jupyter Notebook](https://github.com/ybezginova2016/03_DA_Telecommunication_SmartUltra/blob/main/main_Telecom_SmartUltra.ipynb)
 
-
 ### 📡 [Telecommunication Tariffs: Predicting the Best Tariff Plan](https://github.com/ybezginova2016/ML_1_telecommunications_tariffs/blob/main/README.md)
 Objective: Build a model with the highest possible accuracy. The goal is to achieve at least a 0.75 accuracy score. Test the accuracy on the test dataset.
 Code: [Jupyter Notebook](https://github.com/ybezginova2016/ML_1_telecommunications_tariffs/blob/main/ML_telecommunications.ipynb)
@@ -85,8 +83,7 @@ Objective: To analyze historical data on game sales, user and expert ratings, ge
 Data is [here](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/games.csv).
 Code: [Jupyter Notebook](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/games_main.ipynb)
 
-### Feedback
-Your comments and questions are welcome at `ybezginova2021@gmail.com` and Telegram [@yu_bezginova](https://t.me/ybezginova).
+# I can hepl:
 
 ### Web Scraping and Lead Generation:
 - Extracting leads from LinkedIn and other web sources using Python, HTML Requests, BeautifulSoup, AJAX Parsing, Selenium, Asynchronous Parsing, Pyrogram, and Telegram Messenger data parsing.
