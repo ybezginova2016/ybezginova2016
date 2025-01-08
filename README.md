@@ -10,7 +10,7 @@ I am here for you to support with Data Science and Machine Learning model develo
 
 My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and questions are welcome at `ybezginova.ai@gmail.com` and Telegram [@yu_bezginova](https://t.me/ybezginova).
 
-# Data Science S & ML Projects
+# Data Science & ML Projects
 
 ### 📝 [NLP State Gov Complaint / Question Classification Project](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/README.md)
 **Objective**: To train a model that classifies user messages as either complaints or questions.
