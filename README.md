@@ -85,14 +85,9 @@ My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and qu
 # I can help with:
 
 ### Data Science & Machine Learning projects:
-- Predictive models using machine learning algorithms (supervised learning, unsupervised learning, reinforcement learning, OCR, NLP, computer vision) for structured data.
-- Neural networks training and testing (image and voice recognition).
-- Transforming or creating from scratch enterprise data warehouses.
-- Creating a full-cycle ETL pipeline for the business or business process.
-
-### Data Analysis and Problem-Solving:
-- Concentrating in Supply Chain Management and Sales Automation.
-- Statistical Modelling.
+- Data Analytics: ad-hoc reporting, Dashboards, Data Preprocessing, EDA, Hypothesis Building, A/B Testing, Product Analytics & Metrics Development (CTR, ROAS, CPA, Churn Rate, LTV, ROI, P&L, Revenue Analysis, Cost Analysis)
+- Data Science (Classical ML): Forecasting, Uplift Modelling, Performance Analysis; Linear Regression Models, Classification Models, Decision Trees, Random Forest, SVM k-means, feature engineering; metrics for model validation (MSE, MAE, MAPE, RMSE, R^2, adj. R^2, F1, log loss)
+- Stack: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, LightGBM, CatBoost), SQL (nested query, window function), MS Excel, Miro.
 
 ### Web Scraping:
 - Extracting leads from LinkedIn and other web sources using Python, HTML Requests, BeautifulSoup, AJAX Parsing, Selenium, Asynchronous Parsing, Pyrogram, and Telegram Messenger data parsing.
