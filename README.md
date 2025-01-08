@@ -85,9 +85,9 @@ My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and qu
 # I can help with:
 
 ### Data Science & Machine Learning projects:
-- Data Analytics: ad-hoc reporting, Dashboards, Data Preprocessing, EDA, Hypothesis Building, A/B Testing, Product Analytics & Metrics Development (CTR, ROAS, CPA, Churn Rate, LTV, ROI, P&L, Revenue Analysis, Cost Analysis)
-- Data Science (Classical ML): Forecasting, Uplift Modelling, Performance Analysis; Linear Regression Models, Classification Models, Decision Trees, Random Forest, SVM k-means, feature engineering; metrics for model validation (MSE, MAE, MAPE, RMSE, R^2, adj. R^2, F1, log loss)
-- Stack: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, LightGBM, CatBoost), SQL (nested query, window function), MS Excel, Miro.
+- **Data Analytics:** ad-hoc reporting, Dashboards, Data Preprocessing, EDA, Hypothesis Building, A/B Testing, Product Analytics & Metrics Development (CTR, ROAS, CPA, Churn Rate, LTV, ROI, P&L, Revenue Analysis, Cost Analysis)
+- **Data Science (Classical ML):** Forecasting, Uplift Modelling, Performance Analysis; Linear Regression Models, Classification Models, Decision Trees, Random Forest, SVM k-means, feature engineering; metrics for model validation (MSE, MAE, MAPE, RMSE, R^2, adj. R^2, F1, log loss)
+- *Stack:* Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, LightGBM, CatBoost), SQL (nested query, window function), MS Excel, Miro.
 
 ### Web Scraping:
 - Extracting leads from LinkedIn and other web sources using Python, HTML Requests, BeautifulSoup, AJAX Parsing, Selenium, Asynchronous Parsing, Pyrogram, and Telegram Messenger data parsing.
