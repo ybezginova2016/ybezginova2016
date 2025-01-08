@@ -84,11 +84,6 @@ My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and qu
 
 # I can help with:
 
-### Web Scraping & Lead Generation:
-- Extracting leads from LinkedIn and other web sources using Python, HTML Requests, BeautifulSoup, AJAX Parsing, Selenium, Asynchronous Parsing, Pyrogram, and Telegram Messenger data parsing.
-- Testing lead quality and delivering qualified leads in JSON, Excel, CSV, and PDF formats.
-- Ensuring high conversion potential of leads.
-
 ### Data Science & Machine Learning projects:
 - Predictive models using machine learning algorithms (supervised learning, unsupervised learning, reinforcement learning, OCR, NLP, computer vision) for structured data.
 - Neural networks training and testing (image and voice recognition).
@@ -98,6 +93,11 @@ My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and qu
 ### Data Analysis and Problem-Solving:
 - Concentrating in Supply Chain Management and Sales Automation.
 - Statistical Modelling.
+
+### Web Scraping:
+- Extracting leads from LinkedIn and other web sources using Python, HTML Requests, BeautifulSoup, AJAX Parsing, Selenium, Asynchronous Parsing, Pyrogram, and Telegram Messenger data parsing.
+- Testing lead quality and delivering qualified leads in JSON, Excel, CSV, and PDF formats.
+- Ensuring high conversion potential of leads.
 
 ```
 1. First, we have a person with an idea. 
