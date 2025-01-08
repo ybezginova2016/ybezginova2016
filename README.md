@@ -1,4 +1,4 @@
-# Data Analytics | Data Science | Web Scraping
+# Data Analytics | Data Science | Classical ML
 
 ### Hello everyone! I'm Yulia Bezginova. Welcome to my Git :)
 
