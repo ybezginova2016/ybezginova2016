@@ -17,7 +17,7 @@ Here you will find projects related to:
 I am open to collaboration and professional opportunities in data analytics and data science.
 
 🔗 LinkedIn: https://www.linkedin.com/in/yuliabezginova/  
-📩 Email: ybezginova.ai@gmail.com  
+📩 Email: ybezginova.rs@gmail.com  
 📨 Telegram: https://t.me/ybezginova_de
 
 # Data Science & ML Projects
