@@ -1,12 +1,24 @@
 # Data Analytics | Data Science | SQL Analytics & Dashboarding
 
-### Hello everyone! I'm Yulia Bezginova. Welcome to my Git :)
+### Hello everyone! I'm Yulia Bezginova. Welcome to my GitHub.
 
-With engineering and business education from Russia and Norway, I have over a decade of international business experience across Germany, the US, Australia, Great Britain, Russia, and Serbia. 
+With engineering and business education from Russia and Norway, I bring over a decade of international business experience across Germany, the United States, Australia, Great Britain, Russia, and Serbia.
 
-I am here for you to support with Data Science and Machine Learning model development (data analytics, statistical modelling, NLP, Text Mining), sales automation for small and medium enterprises, including AI, web scraping, voice assistants, and hands-on bots.
+I currently focus on Data Analytics and Data Science projects, combining business expertise with data-driven decision-making and automation solutions.
 
-My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and questions are welcome at `ybezginova.ai@gmail.com` or Telegram [@ybezginova_de](https://t.me/ybezginova_de).
+Here you will find projects related to:
+- Data analytics and SQL analytics
+- Machine learning and statistical modeling
+- NLP and text mining
+- Business analytics and dashboarding
+- Sales and process automation for small and medium enterprises
+- AI-based solutions, web scraping, voice assistants, and automation bots
+
+I am open to collaboration and professional opportunities in data analytics and data science.
+
+🔗 LinkedIn: https://www.linkedin.com/in/yuliabezginova/  
+📩 Email: ybezginova.ai@gmail.com  
+📨 Telegram: https://t.me/ybezginova_de
 
 # Data Science & ML Projects
 
