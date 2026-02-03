@@ -58,12 +58,6 @@ My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and qu
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/DA_5_US_income_tax/blob/main/income_tax_main_YBezginova.ipynb)
 
 
-### 🎧 [Moscow and St. Petersburg Music Preferences Project](https://github.com/ybezginova2016/DA_1_MSK_SPb_music_project/blob/main/README.md)
-**Objective**: To analyze and compare the music preferences of users in Moscow and St. Petersburg, aiming to debunk myths and provide insights for businesses.
-**Data** is [here](https://github.com/ybezginova2016/DA_1_MSK_SPb_music_project/blob/main/yandex_music_project.csv).
-**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/DA_1_MSK_SPb_music_project/blob/main/msk_spb_music_project.ipynb)
-
-
 ### 📊 [Telecommunication Tariffs: Revenue Analysis Project](https://github.com/ybezginova2016/03_DA_Telecommunication_SmartUltra/blob/main/README.md)
 **Objective**: To identify which tariff brings more revenue.
 **Data** is [here](https://drive.google.com/drive/folders/1KG84Fb9jK1GOjNAKyCvh8tKarVDr2qwR?usp=sharing) (please do not delete from the disk).
