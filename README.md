@@ -4,8 +4,6 @@
 
 With engineering and business education from Russia and Norway, I have over a decade of international business experience across Germany, the US, Australia, Great Britain, Russia, and Serbia. 
 
-I now concentrate on data science, data analytics, and data management tasks, continuously upgrading my skills, including upskilling in statistics, econometrics, math, Python, SQL. I am constantly learning and have completed over 50 courses on Coursera from world-renowned universities.
-
 I am here for you to support with Data Science and Machine Learning model development (data analytics, statistical modelling, NLP, Text Mining), sales automation for small and medium enterprises, including AI, web scraping, voice assistants, and hands-on bots.
 
 My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and questions are welcome at `ybezginova.ai@gmail.com` and Telegram [@ybezginova_de](https://t.me/ybezginova_de).
