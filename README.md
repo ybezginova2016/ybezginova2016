@@ -1,4 +1,4 @@
-# Data Analytics | Data Science | Classical ML
+# Data Analytics | Data Science | SQL Analytics & Dashboarding
 
 ### Hello everyone! I'm Yulia Bezginova. Welcome to my Git :)
 
@@ -6,7 +6,7 @@ With engineering and business education from Russia and Norway, I have over a de
 
 I am here for you to support with Data Science and Machine Learning model development (data analytics, statistical modelling, NLP, Text Mining), sales automation for small and medium enterprises, including AI, web scraping, voice assistants, and hands-on bots.
 
-My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and questions are welcome at `ybezginova.ai@gmail.com` and Telegram [@ybezginova_de](https://t.me/ybezginova_de).
+My [LinkedIn](https://www.linkedin.com/in/yuliabezginova/). Your comments and questions are welcome at `ybezginova.ai@gmail.com` or Telegram [@ybezginova_de](https://t.me/ybezginova_de).
 
 # Data Science & ML Projects
 
