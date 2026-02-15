@@ -2,9 +2,11 @@
 
 ### Hello everyone! I'm Yulia Bezginova. Welcome to my GitHub.
 
-With engineering and business education from Russia and Norway, I bring over a decade of international business experience across Germany, the United States, Australia, Great Britain, Russia, and Serbia.
+Product / Data Analyst with 5+ years of experience in e-commerce, retail, fintech, and online platforms, translating complex user behavior and product data into actionable insights that drive conversion, retention, and revenue growth. Strong background in SQL, Python analytics, mathematical statistics, and A/B testing, with hands-on experience building KPI dashboards, designing experiments, and validating product hypotheses. Experienced in cross-functional collaboration with product, engineering, and business teams, combining analytical rigor with strong stakeholder communication in fast-paced, performance-driven environments.
 
-I currently focus on Data Analytics and Data Science projects, combining business expertise with data-driven decision-making and automation solutions.
+🔗 LinkedIn: https://www.linkedin.com/in/yuliabezginova/  
+📩 Email: ybezginova.rs@gmail.com  
+📨 Telegram: https://t.me/ybezginova_de
 
 ### Stack
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -28,15 +30,6 @@ I currently focus on Data Analytics and Data Science projects, combining busines
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
-
-### Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=ybezginova2016&hide=stars,contribs&theme=gotham&show_icons=true&count_private=true)](https://github.com/ybezginova2016/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybezginova2016&layout=compact&theme=gotham)](https://github.com/ybezginova2016/github-readme-stats)
-
-🔗 LinkedIn: https://www.linkedin.com/in/yuliabezginova/  
-📩 Email: ybezginova.rs@gmail.com  
-📨 Telegram: https://t.me/ybezginova_de
 
 # Data Science & ML Projects
 
