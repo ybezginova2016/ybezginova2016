@@ -1,4 +1,4 @@
-# Data Analytics | Data Science | SQL Analytics & Dashboarding
+# Data Analytics | Data Science | Product Analytics
 
 ### Hello everyone! I'm Yulia Bezginova. Welcome to my GitHub.
 
@@ -6,15 +6,12 @@ With engineering and business education from Russia and Norway, I bring over a d
 
 I currently focus on Data Analytics and Data Science projects, combining business expertise with data-driven decision-making and automation solutions.
 
-Here you will find projects related to:
-- Data analytics and SQL analytics
-- Machine learning and statistical modeling
-- NLP and text mining
-- Business analytics and dashboarding
-- Sales and process automation for small and medium enterprises
-- AI-based solutions, web scraping, voice assistants, and automation bots
-
-I am open to collaboration and professional opportunities in data analytics and data science.
+SKILLS
+•	SQL (MySQL, PostgreSQL): joins, CTE, window functions, aggregations, segmentation queries, nested queries
+•	Data Pipeline & Analysis: data ingestion and profiling (EDA), data cleansing and validation (missing values, anomalies, consistency checks), feature preparation (basic), descriptive statistics, hypothesis testing, correlation and regression analysis, cross-validation, visualization, trend analysis using Python and Tableau.
+•	Product Analytics: A/B testing, statistical hypothesis testing, funnel and cohort analysis, product KPI monitoring (DAU, retention, conversion, LTV), experiment design and validation.
+•	Python: NumPy, Pandas, Matplotlib, Seaborn, SciPy, scikit-learn, Statsmodels, Plotly
+•	Languages: English (C1), German (B2), Serbian (B1), Italian (A1), Russian (native)
 
 🔗 LinkedIn: https://www.linkedin.com/in/yuliabezginova/  
 📩 Email: ybezginova.rs@gmail.com  
