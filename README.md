@@ -6,12 +6,33 @@ With engineering and business education from Russia and Norway, I bring over a d
 
 I currently focus on Data Analytics and Data Science projects, combining business expertise with data-driven decision-making and automation solutions.
 
-### SKILLS
--	**SQL (MySQL, PostgreSQL):** joins, CTE, window functions, aggregations, segmentation queries, nested queries
-**-	Data Pipeline & Analysis: **data ingestion and profiling (EDA), data cleansing and validation (missing values, anomalies, consistency checks), feature preparation (basic), descriptive statistics, hypothesis testing, correlation and regression analysis, cross-validation, visualization, trend analysis using Python and Tableau.
-**-	Product Analytics:** A/B testing, statistical hypothesis testing, funnel and cohort analysis, product KPI monitoring (DAU, retention, conversion, LTV), experiment design and validation.
-**-	Python: **NumPy, Pandas, Matplotlib, Seaborn, SciPy, scikit-learn, Statsmodels, Plotly
-**-	Languages: **English (C1), German (B2), Serbian (B1), Italian (A1), Russian (native)
+### Stack
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Jypiter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%238DD6F9.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
+
+### Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=ybezginova2016&hide=stars,contribs&theme=gotham&show_icons=true&count_private=true)](https://github.com/ybezginova2016/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybezginova2016&layout=compact&theme=gotham)](https://github.com/ybezginova2016/github-readme-stats)
 
 🔗 LinkedIn: https://www.linkedin.com/in/yuliabezginova/  
 📩 Email: ybezginova.rs@gmail.com  
@@ -83,18 +104,6 @@ I currently focus on Data Analytics and Data Science projects, combining busines
 **Data** is [here](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/games.csv).
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/DA_6_Computer_Games/blob/main/games_main.ipynb)
 
-# I can help with:
-
-### Data Science & Machine Learning projects:
-- **Data Analytics:** ad-hoc reporting, Dashboards, Data Preprocessing, EDA, Hypothesis Building, A/B Testing, Product Analytics & Metrics Development (CTR, ROAS, CPA, Churn Rate, LTV, ROI, P&L, Revenue Analysis, Cost Analysis)
-- **Data Science (Classical ML):** Forecasting, Uplift Modelling, Performance Analysis; Linear Regression Models, Classification Models, Decision Trees, Random Forest, SVM k-means, feature engineering; metrics for model validation (MSE, MAE, MAPE, RMSE, R^2, adj. R^2, F1, log loss)
-- *Stack:* Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, LightGBM, CatBoost), SQL (nested query, window function), MS Excel, Miro.
-
-### Web Scraping:
-- Extracting leads from LinkedIn and other web sources using Python, HTML Requests, BeautifulSoup, AJAX Parsing, Selenium, Asynchronous Parsing, Pyrogram, and Telegram Messenger data parsing.
-- Testing lead quality and delivering qualified leads in JSON, Excel, CSV, and PDF formats.
-- Ensuring high conversion potential of leads.
-
 ```
 1. First, we have a person with an idea. 
 2. Money beats the idea. 
@@ -103,30 +112,3 @@ I currently focus on Data Analytics and Data Science projects, combining busines
 
 (Jan Stenbeck)
 ```
-### Stack
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Jypiter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%238DD6F9.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
-
-### Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=ybezginova2016&hide=stars,contribs&theme=gotham&show_icons=true&count_private=true)](https://github.com/ybezginova2016/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ybezginova2016&layout=compact&theme=gotham)](https://github.com/ybezginova2016/github-readme-stats)
