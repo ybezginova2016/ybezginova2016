@@ -33,7 +33,7 @@ Product / Data Analyst with 5+ years of experience in e-commerce, retail, fintec
 
 # Data Analytics & Data Science Project
 
-### 🗄️ [Startup Investment SQL Analysis](https://github.com/ybezginova2016/startup-investment-sql-analysis)
+### 🗄️ [Startup Investment SQL Analysis (2026)](https://github.com/ybezginova2016/startup-investment-sql-analysis)
 **Objective**: To analyze venture capital investments, startup funding activity, acquisitions, and investor behavior using structured SQL queries on a relational database.
 **Data**: Startup Investments dataset including `company`, `fund`, `funding_round`, `investment`, `acquisition`, `people`, and `education` tables. **Stack**: SQL, PostgreSQL
 **Code**: [SQL Scripts](https://github.com/ybezginova2016/startup-investment-sql-analysis)
