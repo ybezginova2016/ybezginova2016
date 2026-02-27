@@ -1,6 +1,6 @@
 # Data Analytics | Data Science | Product Analytics
 
-### Hello everyone! I'm Yulia Bezginova. Welcome to my GitHub.
+### Hello everyone! My name is Yulia Bezginova. Welcome to my GitHub.
 
 Product / Data Analyst with 5+ years of experience in e-commerce, retail, fintech, and online platforms, translating complex user behavior and product data into actionable insights that drive conversion, retention, and revenue growth. Strong background in SQL, Python analytics, mathematical statistics, and A/B testing, with hands-on experience building KPI dashboards, designing experiments, and validating product hypotheses. Experienced in cross-functional collaboration with product, engineering, and business teams, combining analytical rigor with strong stakeholder communication in fast-paced, performance-driven environments.
 
