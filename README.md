@@ -1,4 +1,4 @@
-# Data Analytics | Data Science | Machine Learning (Computer Vision, CNN)
+# Deep Learning | Data Science | Machine Learning (Computer Vision, CNN)
 
 ### Hello everyone! My name is Yulia Bezginova. Welcome to my GitHub.
 
