@@ -1,8 +1,10 @@
-# Deep Learning | Data Science | Machine Learning (Computer Vision, CNN)
+# Data Analytics | Data Science | Machine Learning (Computer Vision, CNN)
 
 ### Hello everyone! My name is Yulia Bezginova. Welcome to my GitHub.
 
-Machine Learning / Data Scientist with a focus on Computer Vision and Deep Learning (CNN), working with end-to-end ML pipelines: from data preprocessing and feature engineering to model training, evaluation, and optimization. Strong background in Python, SQL, and mathematical statistics, with hands-on experience building and validating machine learning models, analyzing model performance, and designing experiments. 
+**Product / Data Analyst** with experience in e-commerce, retail, fintech, and online platforms, translating complex user behavior and product data into actionable insights that drive conversion, retention, and revenue growth. Strong background in SQL, Python analytics, mathematical statistics, and A/B testing, with hands-on experience building KPI dashboards, designing experiments, and validating product hypotheses. Experienced in cross-functional collaboration with product, engineering, and business teams, combining analytical rigor with strong stakeholder communication in fast-paced, performance-driven environments.
+
+**Data Scientist** with a focus on Deep Learning on Computer Vision and Deep Learning (CNN), working with end-to-end ML pipelines Strong background in Python, SQL, and mathematical statistics, with hands-on experience building and validating machine learning models, analyzing model performance, and designing experiments. 
 
 Experienced in working with structured and semi-structured data, applying statistical thinking and data-driven approaches to solve real-world problems. Combine analytical rigor with practical ML implementation, focusing on model reliability, interpretability, and performance improvement.
 
