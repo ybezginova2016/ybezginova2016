@@ -32,21 +32,24 @@ Experienced in working with structured and semi-structured data, applying statis
 
 # Product Analytics & Data Science Projects
 
-### 📊 [Web Funnel A/B Test Analysis](https://github.com/ybezginova2016/app_product_funnel/blob/main/app_product_funnel_final.ipynb)
+### 📊 [Web Funnel A/B Test Analysis](https://github.com/ybezginova2016/app_product_funnel)
 **Objective**: Analyze user funnel progression for a subscription-based product, evaluate A/B experiments with statistical significance testing.
 **Stack**: Python, pandas, statsmodels (z-test)
+**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/app_product_funnel/blob/main/app_product_funnel_final.ipynb)
 
 
-### 🧠 [CNN with Skip-Connections on Fashion MNIST](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026/blob/master/ml_lecture_6_conv_NN/ht_ml_6.ipynb)
+### 🧠 [CNN with Skip-Connections on Fashion MNIST](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026)
 **Objective**: Build a CNN with skip-connections for image classification on Fashion MNIST.
 **Result**: test_acc ~93% after tuning learning rate, batch size, and architecture.
 **Stack**: Python, PyTorch
+**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026/blob/master/ml_lecture_6_conv_NN/ht_ml_6.ipynb)
 
 
-### 🔁 [Autoencoder & VAE on CIFAR-10](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026/blob/master/ml_lecture_8_text2image/ml_lecture_8_task_1_autoencoder.ipynb)
+### 🔁 [Autoencoder & VAE on CIFAR-10](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026)
 **Objective**: Train a standard and variational autoencoder (VAE) on CIFAR-10.
 **Result**: Experiments with network depth, convolutions, and latent_dim to minimize loss.
 **Stack**: Python, PyTorch
+**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026/blob/master/ml_lecture_8_text2image/ml_lecture_8_task_1_autoencoder.ipynb)
 
 
 ### 🗄️ [Startup Investment SQL Analysis (2026)](https://github.com/ybezginova2016/startup-investment-sql-analysis)
