@@ -2,9 +2,7 @@
 
 ### Hello everyone! My name is Yulia Bezginova. Welcome to my GitHub.
 
-Data Scientist focused on Deep Learning and Computer Vision (CNN). I build end-to-end ML pipelines with emphasis on model reliability, interpretability, and performance.
-
-Experienced in working with structured and semi-structured data, applying statistical thinking and data-driven approaches to solve real-world problems. Combine analytical rigor with practical ML implementation, focusing on model reliability, interpretability, and performance improvement.
+Data Scientist focused on Deep Learning and Computer Vision (CNN). I build end-to-end ML pipelines with emphasis on model reliability, interpretability, and performance. Experienced in working with structured and semi-structured data, applying statistical thinking and data-driven approaches to solve real-world problems. Combine analytical rigor with practical ML implementation, focusing on model reliability, interpretability, and performance improvement.
 
 🔗 LinkedIn: https://www.linkedin.com/in/yuliabezginova/  
 📩 Email: ybezginova.rs@gmail.com  
