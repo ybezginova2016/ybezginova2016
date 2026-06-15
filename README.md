@@ -34,9 +34,13 @@ Experienced in working with structured and semi-structured data, applying statis
 
 ### 📝 [DeepFake Face Detection (Binary Image Classification)](https://github.com/ybezginova2016/ya_ml_intensive_project_spring2026)
 **Objective**: To build a binary classifier distinguishing real from AI-generated (StyleGAN) face images using custom CNN architectures with frequency-domain preprocessing.
+
 **Approach**: Five sequential experiments — from a baseline CNN to a final architecture with residual blocks, SE (Squeeze-and-Excitation) attention, FFT and HighFreq channels, and dual Average+Max pooling. Class imbalance was addressed via offline augmentation and WeightedRandomSampler.
+
 **Best Result**: Validation F1 = **0.9835** (threshold = 0.31), submitted to Kaggle.
+
 **Key techniques**: ResidualBlock · SEBlock · AddFFTChannel · AddHighFreqChannel · MedianDenoise · offline minority class augmentation
+
 **Code**: [Notebook 5 (final, Kaggle submission)](https://colab.research.google.com/drive/1MOoTvOtJi5XjerWY8lpEifuGNTXbG8gX)
 
 ### 📝 [NLP State Gov Complaint / Question Classification Project](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/README.md)
