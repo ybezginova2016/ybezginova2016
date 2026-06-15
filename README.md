@@ -38,7 +38,7 @@ Experienced in working with structured and semi-structured data, applying statis
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/app_product_funnel/blob/main/app_product_funnel_final.ipynb)
 
 
-### 🧠 [CNN with Skip-Connections on Fashion MNIST](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026)
+### 🧠 [CNN with Skip-Connections](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026)
 **Objective**: Build a CNN with skip-connections for image classification on Fashion MNIST.
 **Result**: test_acc ~93% after tuning learning rate, batch size, and architecture.
 **Stack**: Python, PyTorch
