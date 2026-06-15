@@ -1,10 +1,8 @@
-# Data Science | Machine Learning (Classical ML, NLP)
+# Data Science | Machine Learning (Classical ML, NLP, CV)
 
 ### Hello everyone! My name is Yulia Bezginova. Welcome to my GitHub.
 
-**Data Analyst** with experience in e-commerce, retail, and fintech. I turn user behavior and product data into actionable insights: A/B testing, KPI dashboards, SQL, Python, and statistical analysis.
-
-**Data Scientist** focused on Deep Learning and Computer Vision (CNN). I build end-to-end ML pipelines with emphasis on model reliability, interpretability, and performance.
+Data Scientist focused on Deep Learning and Computer Vision (CNN). I build end-to-end ML pipelines with emphasis on model reliability, interpretability, and performance.
 
 Experienced in working with structured and semi-structured data, applying statistical thinking and data-driven approaches to solve real-world problems. Combine analytical rigor with practical ML implementation, focusing on model reliability, interpretability, and performance improvement.
 
