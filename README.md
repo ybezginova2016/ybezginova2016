@@ -30,13 +30,21 @@ Experienced in working with structured and semi-structured data, applying statis
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# Product Analytics & Data Science Projects
+# DL Projects
 
-### 📊 [Web Funnel A/B Test Analysis](https://github.com/ybezginova2016/app_product_funnel)
-**Objective**: Analyze user funnel progression for a subscription-based product, evaluate A/B experiments with statistical significance testing.
-**Stack**: Python, pandas, statsmodels (z-test)
-**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/app_product_funnel/blob/main/app_product_funnel_final.ipynb)
+# 🧠 ML51 — DeepFake Face Detection | Yandex ML Intensive Spring 2026
 
+### 📝 [DeepFake Face Detection (Binary Image Classification)](https://github.com/ybezginova2016/ya_ml_intensive_project_spring2026)
+**Objective**: To build a binary classifier distinguishing real from AI-generated (StyleGAN) face images using custom CNN architectures with frequency-domain preprocessing.
+**Approach**: Five sequential experiments — from a baseline CNN to a final architecture with residual blocks, SE (Squeeze-and-Excitation) attention, FFT and HighFreq channels, and dual Average+Max pooling. Class imbalance was addressed via offline augmentation and WeightedRandomSampler.
+**Best Result**: Validation F1 = **0.9835** (threshold = 0.31), submitted to Kaggle.
+**Key techniques**: ResidualBlock · SEBlock · AddFFTChannel · AddHighFreqChannel · MedianDenoise · offline minority class augmentation
+**Code**: [Notebook 5 (final, Kaggle submission)](https://colab.research.google.com/drive/1MOoTvOtJi5XjerWY8lpEifuGNTXbG8gX)
+
+### 📝 [NLP State Gov Complaint / Question Classification Project](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/README.md)
+**Objective**: To train a model that classifies user messages as either complaints or questions.
+**Data**: [Complaints](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/questions_test.csv) and [Questions](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/questions_test.csv).
+**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/main.ipynb)
 
 ### 🧠 [CNN with Skip-Connections](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026)
 **Objective**: Build a CNN with skip-connections for image classification on Fashion MNIST.
@@ -44,43 +52,39 @@ Experienced in working with structured and semi-structured data, applying statis
 **Stack**: Python, PyTorch
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026/blob/master/ml_lecture_6_conv_NN/ht_ml_6.ipynb)
 
-
 ### 🔁 [Autoencoder & VAE on CIFAR-10](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026)
 **Objective**: Train a standard and variational autoencoder (VAE) on CIFAR-10.
 **Result**: Experiments with network depth, convolutions, and latent_dim to minimize loss.
 **Stack**: Python, PyTorch
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026/blob/master/ml_lecture_8_text2image/ml_lecture_8_task_1_autoencoder.ipynb)
 
+# Product Analytics Projects
+
+### 📊 [Web Funnel A/B Test Analysis](https://github.com/ybezginova2016/app_product_funnel)
+**Objective**: Analyze user funnel progression for a subscription-based product, evaluate A/B experiments with statistical significance testing.
+**Stack**: Python, pandas, statsmodels (z-test)
+**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/app_product_funnel/blob/main/app_product_funnel_final.ipynb)
 
 ### 🗄️ [Startup Investment SQL Analysis (2026)](https://github.com/ybezginova2016/startup-investment-sql-analysis)
 **Objective**: To analyze venture capital investments, startup funding activity, acquisitions, and investor behavior using structured SQL queries on a relational database.
 **Data**: Startup Investments dataset including `company`, `fund`, `funding_round`, `investment`, `acquisition`, `people`, and `education` tables. **Stack**: SQL, PostgreSQL
 **Code**: [SQL Scripts](https://github.com/ybezginova2016/startup-investment-sql-analysis)
 
-
-### 📝 [NLP State Gov Complaint / Question Classification Project](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/README.md)
-**Objective**: To train a model that classifies user messages as either complaints or questions.
-**Data**: [Complaints](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/questions_test.csv) and [Questions](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/questions_test.csv).
-**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/NLP_GovComplaintQuestionClassification/blob/main/main.ipynb)
-
-
+# Classical ML Projects
 ### 🚖 [Taxi Orders Forecasting Project](https://github.com/ybezginova2016/03_LA_TaxiOrders/blob/main/README.md)
 **Objective**: To build and train a machine learning model for forecasting the number of taxi orders in the next hour.
 **Data** is [here](https://github.com/ybezginova2016/03_LA_TaxiOrders/blob/main/taxi.csv).
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/03_LA_TaxiOrders/blob/main/03_LA_taxi_orders_main.ipynb)
-
 
 ### 🔐 [Clients' Personal Data Protection Project](https://github.com/ybezginova2016/01_LA_CustomerDataProtection/blob/main/README.md)
 **Objective**: Develop a method for encoding client data to make it difficult to restore private information.
 **Data** is [here](https://github.com/ybezginova2016/01_LA_CustomerDataProtection/blob/main/insurance.csv).
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/01_LA_CustomerDataProtection/blob/main/01_LA_main_CustomerDataProtection.ipynb)
 
-
 ### 🏦 [Bank Credit Scoring Project](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/README.md)
 **Objective**: To analyze whether a client's marital status and the number of children they have impact their ability to repay a loan on time.
 **Data** is [here](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data_bank_scoring_project.csv).
 **Code**: [Part 1](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data%20cleaning%20(part%201).ipynb) and [Part 2](https://github.com/ybezginova2016/DA_2_bank-credit-scoring/blob/main/data%20analysis%20(part%202).ipynb)
-
 
 ### 🏠 [Real Estate Profit Calculation Project](https://github.com/ybezginova2016/06_DA_RealEstateProfitCalculation/blob/main/README.md)
 **Objective**: Conduct an Exploratory Data Analysis and calculate the profit.
