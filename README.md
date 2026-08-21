@@ -1,4 +1,4 @@
-# Data Science | Machine Learning (Classical ML, NLP, CV)
+# Data Science | Machine Learning (Classical ML, NLP)
 
 ### Hello everyone! My name is Yulia Bezginova. Welcome to my GitHub.
 
