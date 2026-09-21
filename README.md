@@ -28,6 +28,11 @@ Data Scientist focused on Deep Learning and Computer Vision (CNN). I build end-t
 
 # DL Projects
 
+### 💳 [Credit Scoring Model & MLOps Inference Service](https://github.com/ybezginova2016/credit_scoring_service)
+**Objective:** To build the best-performing credit scoring model from a multi-table dataset (loan applications, transactions, credit bureau records, previous loans) and ship it as a production-style inference service — from a raw training notebook to a containerized API deployed in a local Kubernetes cluster.
+
+Stack: pandas, NumPy, scikit-learn (Pipeline, ColumnTransformer, GridSearchCV, StratifiedKFold), LightGBM, CatBoost, joblib for the modeling side; FastAPI, Pydantic, uv, Docker, Docker Compose, PostgreSQL, psycopg, Kubernetes (kind, kubectl), pytest for the service side.
+
 ### 📝 [DeepFake Face Detection (Binary Image Classification)](https://github.com/ybezginova2016/ya_ml_intensive_project_spring2026)
 **Objective**: To build a binary classifier distinguishing real from AI-generated (StyleGAN) face images using custom CNN architectures with frequency-domain preprocessing.
 
