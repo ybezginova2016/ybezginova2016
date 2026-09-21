@@ -52,18 +52,6 @@ Data Scientist focused on Deep Learning and Computer Vision (CNN). I build end-t
 **Stack**: Python, PyTorch
 **Code**: [Jupyter Notebook](https://github.com/ybezginova2016/ya_bootcamp_ml_spring2026/blob/master/ml_lecture_8_text2image/ml_lecture_8_task_1_autoencoder.ipynb)
 
-# Product Analytics Projects
-
-### 📊 [Web Funnel A/B Test Analysis](https://github.com/ybezginova2016/app_product_funnel)
-**Objective**: Analyze user funnel progression for a subscription-based product, evaluate A/B experiments with statistical significance testing.
-**Stack**: Python, pandas, statsmodels (z-test)
-**Code**: [Jupyter Notebook](https://github.com/ybezginova2016/app_product_funnel/blob/main/app_product_funnel_final.ipynb)
-
-### 🗄️ [Startup Investment SQL Analysis (2026)](https://github.com/ybezginova2016/startup-investment-sql-analysis)
-**Objective**: To analyze venture capital investments, startup funding activity, acquisitions, and investor behavior using structured SQL queries on a relational database.
-**Data**: Startup Investments dataset including `company`, `fund`, `funding_round`, `investment`, `acquisition`, `people`, and `education` tables. **Stack**: SQL, PostgreSQL
-**Code**: [SQL Scripts](https://github.com/ybezginova2016/startup-investment-sql-analysis)
-
 # Classical ML Projects
 ### 🚖 [Taxi Orders Forecasting Project](https://github.com/ybezginova2016/03_LA_TaxiOrders/blob/main/README.md)
 **Objective**: To build and train a machine learning model for forecasting the number of taxi orders in the next hour.
