@@ -8,8 +8,11 @@ That is the problem I work on.
 I work at the intersection most teams struggle to bridge:
 
 -> Classical ML: credit scoring, risk models, fraud detection on tabular data.
+
 -> NLP & LLMs: fine-tuning (SFT), RAG and retrieval quality, RLHF/RLAIF, generative systems grounded in real data instead of hallucinating.
+
 -> Evaluation: building the metrics that catch a model lying to you before your users do: faithfulness, hallucination rate, precision/recall on retrieval.
+
 -> End-to-end delivery: from messy data to a model in production, with the experimentation (A/B testing) to prove it works.
 
 If you are building or fixing a system where ML decisions and generative AI meet - scoring, risk, search, or an LLM product that needs to be provably correct - let's talk.
