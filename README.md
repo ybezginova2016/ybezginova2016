@@ -2,7 +2,18 @@
 
 ### Hello everyone! My name is Yulia Bezginova. Welcome to my GitHub.
 
-Data Scientist focused on Deep Learning and Computer Vision (CNN). I build end-to-end ML pipelines with emphasis on model reliability, interpretability, and performance. Experienced in working with structured and semi-structured data, applying statistical thinking and data-driven approaches to solve real-world problems. Combine analytical rigor with practical ML implementation, focusing on model reliability, interpretability, and performance improvement.
+Wrong models don't just miss. They approve the loan that defaults, reroute the shipment that was already on time, drop the customer who was about to churn anyway, and generate the answer nobody can trust.
+
+That is the problem I work on.
+I work at the intersection most teams struggle to bridge:
+
+-> Classical ML: credit scoring, risk models, fraud detection on tabular data.
+-> NLP & LLMs: fine-tuning (SFT), RAG and retrieval quality, RLHF/RLAIF, generative systems grounded in real data instead of hallucinating.
+-> Evaluation: building the metrics that catch a model lying to you before your users do: faithfulness, hallucination rate, precision/recall on retrieval.
+-> End-to-end delivery: from messy data to a model in production, with the experimentation (A/B testing) to prove it works.
+
+If you are building or fixing a system where ML decisions and generative AI meet - scoring, risk, search, or an LLM product that needs to be provably correct - let's talk.
+
 
 🔗 LinkedIn: https://www.linkedin.com/in/yuliabezginova/  
 📩 Email: ybezginova.rs@gmail.com  
